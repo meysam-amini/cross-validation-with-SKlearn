@@ -1,5 +1,4 @@
-# Cross-validation-with-Scikit-Learn
-Intuition on cross validation with Scikit-Learn
+#Intuition on cross-validation-with-Scikit-Learn
 
 In this Notbook I'm explaining Cross-Validation with Scikit-Learn (in Persian)
 
